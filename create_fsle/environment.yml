@@ -1,0 +1,20 @@
+name: RTD
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - netcdf4
+  - python=3.7
+#  - lagrangian
+  - libboost=1.71
+  - cython
+  - libnetcdf=4.6.1
+  - python-dateutil
+  - numpy=1.18
+  - motuclient
+  - nco=4.6.1
+  - libnetcdf=4.4.1.1
+  - libcurl=7.87.0
+  - libnghttp2=1.51.0
+  - libssh2=1.10.0
+
