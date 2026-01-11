@@ -1,4 +1,4 @@
-Cape Basin Tracer Ventilation — Analysis Code
+Code for tracer ventilation analysis in the Cape Basin
 
 This repository contains the analysis code used in:
 
